@@ -1,0 +1,1 @@
+{"_links":{"self":{"href":"http://compras.dados.gov.br/contratos/v1/contratos.json?cnpj_contratada=28638393000182","title":"Lista de contratos filtrados por cnpj_contratada=28638393000182."},"first":{"href":"/contratos/v1/contratos.json?cnpj_contratada=28638393000182&offset=0","title":"Primeira página"}},"_embedded":{"contratos":[]},"count":0,"offset":0}
