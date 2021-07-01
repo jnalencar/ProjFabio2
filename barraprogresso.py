@@ -33,6 +33,7 @@ for i, item in enumerate(items):
     # Update Progress Bar
     printProgressBar(i + 1, l, prefix = '1Progress:', suffix = 'Complete ' + str(i)+ '/' + str(len(items)), length = 50)
 
+#teste segunda barra
 printProgressBar(0, l, prefix = '2Progress:', suffix = 'Complete', length = 50)
 for i, item in enumerate(items):
     # Do stuff...
