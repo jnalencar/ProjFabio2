@@ -154,4 +154,3 @@ else:
     print('Sem erros encontrados')
 input()
 sys.exit()
-#a
