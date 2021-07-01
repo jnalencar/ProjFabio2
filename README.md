@@ -7,3 +7,6 @@ O programa colhe os dados da API e os transforma em um TXT para cada CNPJ
 - Devido a instabilidade da API essa foi a forma mais segura encontrada de salvar os dados
 
 Depois que os TXT estiverem prontos, o programa organiza e separa os dados em um dataset para exporta-los em um arquivo excel
+
+Link para Download:
+https://github.com/jonathannalencar/ProjFabio2/releases/tag/1.0
